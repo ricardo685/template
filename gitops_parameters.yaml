@@ -1,0 +1,7 @@
+# Example environment file for GitOps script with prompt password input
+GIT_USER: "matricula"
+GIT_EMAIL: "mail@bcp.com.pe"
+REPO_URL: "https://github.com/ricardo685/template.git"
+CHECKOUT_BRANCH: "master"
+PULL_BRANCH: "release/xxxxxx"
+LOGFILE: "gitops_activity.log"
